@@ -9,6 +9,13 @@
   Python for Machine Learning :books:
 </h3>
 
+## Bootcamp march ! Fellas :bomb:
+
+<p align="center">
+  <img src="https://soumo.eu/wp-content/uploads/2020/04/Army-Fails-16.gif" width="1200" />
+</p>
+
+
 ## :information_source: Content :
 
 | Modules | Title | Topics |
