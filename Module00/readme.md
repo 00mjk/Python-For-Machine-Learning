@@ -2,6 +2,13 @@
 
 The goal of the module is to get started with the Python language.
 
+<p align="center">
+  <img src="https://img.static-rmg.be/a/view/q100/w900/h600/2217807/giphy-gif.gif" width="1200" />
+</p>
+
+> You are not an idiot sandwich! You are a Python god.
+
+
 ## :information_source: Notions of the module :
 
 Basic setup, variables, types, functions, ...
