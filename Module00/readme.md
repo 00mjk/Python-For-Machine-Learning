@@ -31,7 +31,7 @@ Python 3.7.*
 /goinfre/miniconda/bin/pip
 ```
 
-:fire:
+:fire: :fire: :fire: :fire: :fire:
 
 ### Exercise 00 - $PATH
 ### Exercise 01 - Rev Alpha
