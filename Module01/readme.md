@@ -1,10 +1,10 @@
-# Module00 - Basic stuff - Eleven Commandments
+# Module01 - Basics 2
 
-The goal of the module is to get started with the Python language.
+The goal of the module is to get familiar with object-oriented programming and much more.
 
 ## Notions of the module
 
-Basic setup, variables, types, functions, ...
+Objects, cast, class, inheritance, built-in functions, magic methods, generator, constructor, iterator, ...
 
 ## General rules
 
@@ -19,8 +19,6 @@ Basic setup, variables, types, functions, ...
 
 ## Helper
 
-How do you install and link Python in the $PATH? That's the first exercise!
-
 Ensure that you have the right Python version.
 
 ```
@@ -32,14 +30,10 @@ Python 3.7.*
 /goinfre/miniconda/bin/pip
 ```
 
-### Exercise 00 - $PATH
-### Exercise 01 - Rev Alpha
-### Exercise 02 - The Odd, the Even and the Zero
-### Exercise 03 - Functional file
-### Exercise 04 - Elementary
-### Exercise 05 - The right format
-### Exercise 06 - A recipe
-### Exercise 07 - Shorter, faster, pythonest
-### Exercise 08 - S.O.S
-### Exercise 09 - Secret number
-### Exercise 10 - Loading bar!
+### Exercise 00 - The Book
+### Exercise 01 - Family tree
+### Exercise 02 - The Vector
+### Exercise 03 - The Matrix
+### Exercise 04 - Generator!
+### Exercise 05 - Working with lists
+### Exercise 06 - Bank account
