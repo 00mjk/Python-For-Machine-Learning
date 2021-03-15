@@ -6,10 +6,10 @@
   Python For Machine Learning
 </h1>
 <h3 align="center">
-  One week to learn Python for Machine Learning :books:
+  Python for Machine Learning :books:
 </h3>
 
-## All the content :
+## :information_source: Content :
 
 ### Module00 - Basics 1 - Eleven Commandments
 **Let's get started with the Python language!** :snake:
