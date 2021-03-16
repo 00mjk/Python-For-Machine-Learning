@@ -13,6 +13,7 @@ The goal of the module is to get started with the Python language, yes! we are h
 ## :information_source: Ressources :
 
 :white_square_button: [E-book Download](https://github.com/Alaamimi/Programming_Books/blob/master/Learn%20Python%20in%20One%20Day%20and%20Learn%20It%20Well%20Python%20for%20Beginners%20with%20Hands-on%20Project.%20The%20only%20book%20you%20need%20to%20start%20coding%20in%20Python%20immediately%20by%20Jamie%20Chan%20(z-lib.org).epub)
+
 :tv: [Playlist](https://www.youtube.com/watch?v=8DvywoWv6fI&ab_channel=freeCodeCamp.org)
 
 ## :information_source: Notions of the module :
