@@ -1,14 +1,13 @@
 # :books: Module00 - Basic stuff - Eleven Commandments
 
-The goal of the module is to get started with the Python language.
-
-Otherwise, its either you understand Python or you go learn something else! Cooking for example .
+The goal of the module is to get started with the Python language, yes! we are here to learn the parseltongue language,
+(Harry Potter reference.)
 
 <p align="center">
-  <img src="https://img.static-rmg.be/a/view/q100/w900/h600/2217807/giphy-gif.gif" width="1200" />
+  <img src="https://media.tenor.com/images/cbd5e30ea3cb9a8af4466270c5c8f344/tenor.gif" width="1200" />
 </p>
 
-> You are not an idiot sandwich! You are a Python god.
+> Go my friend, you can become a Python god... 
 
 
 ## :information_source: Notions of the module :
