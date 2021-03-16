@@ -1,9 +1,8 @@
 # :books: Module00 - Basic stuff - Eleven Commandments
 
-The goal of the module is to get started with the Python language, yes! we are here to learn the parseltongue language,
+The goal of the module is to get started with the Python language, yes! we are here to learn the [Parseltongue](https://www.youtube.com/watch?v=8ie_9REmgpg&ab_channel=gewfd) language,
 (Harry Potter reference.)
 
-:tv: --> To satisfy your curiosity : [Parseltongue](https://www.youtube.com/watch?v=8ie_9REmgpg&ab_channel=gewfd)
 
 <p align="center">
   <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
