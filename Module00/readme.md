@@ -7,7 +7,7 @@ The goal of the module is to get started with the Python language, yes! we are h
   <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
 </p>
 
-> Go my friend, you can become a Python god... 
+> Have faith my friend, you can become a Python god... 
 
 
 ## :information_source: Notions of the module :

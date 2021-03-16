@@ -9,7 +9,7 @@
   Python for Machine Learning :books:
 </h3>
 
-## Bootcamp march, My friend! :bomb:
+## :bomb: Bootcamp march, My friend! All hail monty Python. :bomb:
 
 <p align="center">
   <img src="https://soumo.eu/wp-content/uploads/2020/04/Army-Fails-16.gif" width="1200" />
@@ -17,6 +17,8 @@
 
 
 ## :information_source: Content :
+
+> This project is estimated to be ended on 7 days delay (1 week).
 
 | Modules | Title | Topics | PDF |
 |--- | --- |--- |--- |
