@@ -5,11 +5,8 @@
 <h1 align="center">
   Python For Machine Learning
 </h1>
-<h3 align="center">
-  Python for Machine Learning :books:
-</h3>
 
-## :bomb: Bootcamp march, My friend! All hail monty Python. :bomb:
+## :bomb: Bootcamp march, My friend! All hail Monty Python. :bomb:
 
 <p align="center">
   <img src="https://soumo.eu/wp-content/uploads/2020/04/Army-Fails-16.gif" width="1200" />
