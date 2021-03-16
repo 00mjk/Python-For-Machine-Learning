@@ -1,0 +1,28 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    answer.txt                                         :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: alaamimi <alaamimi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2021/03/16 18:34:59 by alaamimi          #+#    #+#              #
+#    Updated: 2021/03/16 18:36:05 by alaamimi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+// Output a list of installed package.
+
+--> pip freeze
+
+// Output a list of installed package and thier version.
+
+--> pip list
+
+// show metadata of package numpy.
+
+--> pip show numpy
+
+// Search for PyPI packages whose name or summary contains "tesseract".
+
+--> pip search tesseract
