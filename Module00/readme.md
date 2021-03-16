@@ -40,7 +40,7 @@ Python 3.7.*
 /goinfre/miniconda/bin/pip
 ```
 
-## List :
+## :fire: List :
 
 | Exercises | Titles |
 |--- |--- |
