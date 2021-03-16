@@ -4,7 +4,7 @@ The goal of the module is to get started with the Python language, yes! we are h
 (Harry Potter reference.)
 
 <p align="center">
-  <img src="https://media.tenor.com/images/cbd5e30ea3cb9a8af4466270c5c8f344/tenor.gif" width="1200" />
+  <img src="https://www.hodderscape.co.uk/wp-content/uploads/2016/06/Snake-Harry-Potter.gif" width="1200" />
 </p>
 
 > Go my friend, you can become a Python god... 
