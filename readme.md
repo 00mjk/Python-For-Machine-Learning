@@ -6,9 +6,6 @@
   Python For Machine Learning
 </h1>
 
-<h1 align="center">
-  :bomb: Bootcamp march :bomb:
-</h1>
 <p align="center">
   <img src="https://soumo.eu/wp-content/uploads/2020/04/Army-Fails-16.gif" width="1200" />
 </p>
