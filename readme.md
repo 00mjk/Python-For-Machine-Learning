@@ -16,8 +16,6 @@
 
 ## :information_source: Content :
 
-> This project is estimated to be ended on 7 days delay (1 week).
-
 | Modules | Title | Topics | PDF |
 |--- | --- |--- |--- |
 | Module00 - Basics 1 | Eleven Commandments. | Basic setup, variables, types, functions, ... | [Module00](https://github.com/Alaamimi/Python-For-Machine-Learning/blob/master/Module00/module00.pdf) |
