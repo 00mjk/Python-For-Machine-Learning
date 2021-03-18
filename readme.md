@@ -4,6 +4,7 @@
 
 <h1 align="center">
   Python For Machine Learning
+  BootCamp !
 </h1>
 
 <p align="center">
